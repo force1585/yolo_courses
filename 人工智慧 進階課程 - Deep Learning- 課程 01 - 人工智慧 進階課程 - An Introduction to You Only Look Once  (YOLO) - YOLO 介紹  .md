@@ -1,4 +1,4 @@
-<h1 align='center' style='color:purple'> 人工智慧 進階課程 - Deep Learning- 課程 01 - An Introduction to You Only Look Once (YOLO) - You Only Look Once  (YOLO)  介紹
+<h1 align='center' style='color:purple'>01 - An Introduction to You Only Look Once (YOLO) - You Only Look Once  (YOLO)  介紹
  - Python Tutorial</h1>
 '''
 
